@@ -1,0 +1,34 @@
+######################
+# Project Specific
+######################
+vendor
+dist
+*/META-INF/*
+MANIFEST.MF
+
+######################
+# Eclipse
+######################
+*.project
+*.classpath
+.settings
+
+######################
+# Intellij
+######################
+.idea
+*.iml
+*.index
+
+######################
+# Maven
+######################
+target
+
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
